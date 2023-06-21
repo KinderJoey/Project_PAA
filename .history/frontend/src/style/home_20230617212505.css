@@ -1,0 +1,104 @@
+.homeContainer {
+    display: flex;
+  }
+
+
+  .intro {
+    height: 1000px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    font-size: 80px;
+  }
+  .title{
+    margin-top: 1000px;
+  }
+  .myBG {
+    height: 100vh;
+    background: url("../assets/images/bg/6.jpg");
+    background-size: cover;
+  }
+  .myBG2{
+    height: 100vh;
+    background: url("../assets/images/bg/2.jpg");
+    background-size: cover;
+  }
+  .myBG3{
+    height: 100vh;
+    background: url("../assets/images/bg/1.jpg");
+    background-size: cover;
+  }
+
+  .intro {
+    height: 400px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    font-size: 80px;
+  }
+  
+  .button-57 {
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 32px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    background-color: #f32121;
+    border: none;
+    border-radius: 30px;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+    text-shadow: 3px 3px black;
+    font-weight: 1000;
+    line-height: 1;
+    letter-spacing: 3px;
+  }
+  .title {
+    font-size: 5rem;
+    font-weight: 1000;
+    line-height: 1;
+    text-shadow: 3px 3px black;
+    letter-spacing: 3px;
+  }
+  .trending {
+    height: auto;
+    background: url("../assets/images/bg/scifi.jpg");
+    background-size: cover;
+  }
+  
+  .superhero {
+    height: auto;
+    background: url("../assets/images/bg/spiderman.jpg");
+    background-size: cover;
+  }
+  
+  .movieWrapper {
+  }
+  
+  .movieImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .images {
+    height: 500px;
+  }
+  
+  .button-belitiket {
+    background-color: green;
+    color: white;
+  }
+  .gradient-custom-2 {
+    /* fallback for old browsers */
+    background: #fbc2eb;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(251, 194, 235, 1), rgba(166, 193, 238, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(251, 194, 235, 1), rgba(166, 193, 238, 1))
+    }
